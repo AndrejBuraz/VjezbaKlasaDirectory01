@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\VjezbaKlasaDirectory01\bin\Debug\VjezbaKlasaDirectory01.exe.config
+C:\Users\ucenik\Documents\VjezbaKlasaDirectory01\bin\Debug\VjezbaKlasaDirectory01.exe
+C:\Users\ucenik\Documents\VjezbaKlasaDirectory01\bin\Debug\VjezbaKlasaDirectory01.pdb
+C:\Users\ucenik\Documents\VjezbaKlasaDirectory01\obj\Debug\VjezbaKlasaDirectory01.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\VjezbaKlasaDirectory01\obj\Debug\VjezbaKlasaDirectory01.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\VjezbaKlasaDirectory01\obj\Debug\VjezbaKlasaDirectory01.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\VjezbaKlasaDirectory01\obj\Debug\VjezbaKlasaDirectory01.exe
+C:\Users\ucenik\Documents\VjezbaKlasaDirectory01\obj\Debug\VjezbaKlasaDirectory01.pdb
